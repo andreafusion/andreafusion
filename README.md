@@ -35,21 +35,16 @@ Construyo estructuras que piensan.
 
 ## ✦ Proyectos destacados
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/andreafusion/andreafusion-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=andreafusion-web&theme=default&hide_border=true" />
-</a>
+| Proyecto             | Descripción                                           |
+| -------------------- | ----------------------------------------------------- |
+| **andreafusion-web** | Web personal en Next.js con arquitectura profesional  |
+| **headline-arcade**  | Experimento creativo de titulares interactivos        |
+| **mimasiconic**      | Landing estratégica para marca creativa               |
+| **web-andrea**       | Versión anterior (HTML/CSS/JS) como referencia visual |
 
-<a href="https://github.com/andreafusion/web-andrea">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=web-andrea&theme=default&hide_border=true" />
-</a>
-
-<a href="https://github.com/andreafusion/mimasiconic">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=mimasiconic&theme=default&hide_border=true" />
-</a>
-
-</p>
+</div>
 
 ---
 
@@ -73,6 +68,19 @@ copy-driven interfaces
 
 ---
 
+## ✨ Filosofía de desarrollo
+
+```
+menos ruido visual
+más intención
+estructura antes que estética
+copy antes que animación
+```
+
+Me interesa construir webs claras, ligeras y con personalidad.
+
+---
+
 ## 🌐 Web
 
 andreafusion-web.vercel.app
@@ -83,6 +91,4 @@ andreafusion-web.vercel.app
 ✦ diseño · copy · código ✦
 </p>
 
-### Contacto
-- Web: https://www.andreafusion.com
-- (Opcional) Email: tu-email@dominio.com
+</div>
