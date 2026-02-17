@@ -62,7 +62,6 @@ copy-driven interfaces
 ## 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andreafusion&show_icons=true&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=333&bg_color=00000000"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=andreafusion&hide_border=true&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00"/>
 </p>
 
