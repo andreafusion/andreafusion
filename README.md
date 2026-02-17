@@ -1,41 +1,87 @@
-<h1 align="left">Hola, soy Andrea ✨</h1>
+<h1 align="center">
+  hola, soy andrea ✦
+</h1>
 
-<p align="left">
-  <strong>Diseño y desarrollo webs editoriales</strong> con copy creativo y un sistema de componentes limpio.
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=FF6A00&width=700&lines=Webs+con+intenci%C3%B3n+(no+solo+bonitas);Copy+claro+%2B+dise%C3%B1o+editorial;Next.js+%2B+Tailwind+%2B+Vercel" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=2000&color=FF6A00&center=true&vCenter=true&width=700&lines=creative+frontend+developer;web+design+%2B+copy+%2B+code;editorial+interfaces+%26+creative+systems" />
 </p>
 
 ---
 
-### Ahora mismo estoy construyendo
-- **Webs en Next.js** con estructura profesional (componentes reutilizables + design system).
-- Experimentos de **copy + interacción** para marcas y proyectos creativos.
+## ✦ Sobre mí
 
-### Stack (lo que uso de verdad)
-- **Frontend:** Next.js · (React por debajo) · Tailwind CSS
-- **Herramientas:** VSCode · ESLint · Prettier · Git · GitHub
-- **Deploy:** Vercel
+Desarrollo webs estratégicas donde el diseño, el copy y el código trabajan juntos.
+
+Actualmente estoy construyendo:
+
+* webs editoriales con **Next.js**
+* sistemas de componentes reutilizables
+* experiencias digitales para marcas creativas
+
+No hago plantillas.
+Construyo estructuras que piensan.
 
 ---
 
-## Proyectos destacados
-- **andreafusion-web** → mi web en Next.js (en construcción, con sistema editorial)
-- **headline-arcade** → juego/experimento creativo de titulares
-- **mimasiconic** → landing de marca (branding + estructura)
-- **web-andreafusion** → versión anterior / referencia visual
+## ⚙️ Stack real (lo que uso de verdad)
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,vscode,git,github,vercel" />
+
+</p>
+
+---
+
+## ✦ Proyectos destacados
+
+<p align="center">
+
+<a href="https://github.com/andreafusion/andreafusion-web">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=andreafusion-web&theme=default&hide_border=true" />
+</a>
+
+<a href="https://github.com/andreafusion/web-andrea">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=web-andrea&theme=default&hide_border=true" />
+</a>
+
+<a href="https://github.com/andreafusion/mimasiconic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreafusion&repo=mimasiconic&theme=default&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+## ✦ Actualmente construyendo
+
+```
+creative systems
+editorial web design
+next.js architecture
+copy-driven interfaces
+```
 
 ---
 
 ## 📊 Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=andreafusion&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=andreafusion&show_icons=true&hide_border=true&title_color=ff6a00&icon_color=ff6a00&text_color=333&bg_color=00000000"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=andreafusion&hide_border=true&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00"/>
 </p>
 
+---
+
+## 🌐 Web
+
+andreafusion-web.vercel.app
 
 ---
+
+<p align="center">
+✦ diseño · copy · código ✦
+</p>
 
 ### Contacto
 - Web: https://www.andreafusion.com
